@@ -1,0 +1,1 @@
+This repo will be for the fourteen design patterns discussed in the book Design Patterns in Ruby.
