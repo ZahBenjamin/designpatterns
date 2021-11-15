@@ -1,3 +1,4 @@
+# Chapter 3. Varying the Algorithm with Template Method
 class Report
   def initialize
     @title = 'Monthly Report'
@@ -100,7 +101,6 @@ class PlainTextReport < Report
   # report = PlainTextReport.new
   # report.output_report
   # PlainText report
-
 
   # Other things of note in this chapter are:
   # 1. Hook methods used in template pattern
